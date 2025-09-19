@@ -1,5 +1,3 @@
-# Portfolio
-
 # Introduction
 - *insert blurb about me*
 - [Resume](https://github.com/hchen-12/hchen-12.github.io/blob/45437f2de312a1a7f2aad48aaaf4618c01fb89e0/docs/assets/Holly%20Chen%20Resume%20-%20Sept%202025.pdf)
