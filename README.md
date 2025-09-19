@@ -1,4 +1,4 @@
-# Holly Chen's Portfolio
+# Portfolio
 
 # Introduction
 - *insert blurb about me*
