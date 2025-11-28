@@ -23,7 +23,7 @@ Overview: The goal of this project was to design and build a vertical axis wind 
 
 Personal contributions: My focus for this team project was to set up a digital twin of our physical prototype in HAWC2 to run validation tests between the software and the physical turbine. I also contributed to the design and fabrication of the VAWT base and turbine blades as well as the entire system assembly. 
 
-### Expanding Table
+### [Expanding Table] (https://sites.google.com/g.hmc.edu/expandingtable/home?authuser=0)
 Overview: The goal of this project was to design and build a round table that expands and contracts. Expandable tables have been around for centuries and include a range of mechanical elements that power their movement. They allow for additional people to be seated around an increased perimeter, or more items to be stored on a larger surface area, while also functioning at a compact and space efficient size. In this project, we explored various mechanisms that go into an expanding table, and combined them to create a table that rotates to expand and contract. In the table's contracted state, it is 30" in diameter. When a user spins the rotating base section, the table expands to a diameter of 40" while maintaining the same height. 
 
 Personal contributions: The team collaboratively participated in the design brainstorming and iteration phase of this expanding table. Once the design was finalized, I worked on the inner-leaf subteam to create the mechanism that raised the inner table during rotation. I also contributed to the wood cutting fabrication as well as the full table assembly. 
