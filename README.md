@@ -1,5 +1,5 @@
 # Introduction
-- *insert blurb about me*
+- My name is Holly Chen and I am a mechanical engineering masters student at Carnegie Mellon University. I am a member of the Musculoskeletal Biomechanics Lab where I conduct research on wearable sensor design and validation for patient rehabilitation monitoring. Aside from my area of research, I enjoy product prototyping, iteration and design. 
 - [Resume](https://github.com/hchen-12/hchen-12.github.io/blob/45437f2de312a1a7f2aad48aaaf4618c01fb89e0/docs/assets/Holly%20Chen%20Resume%20-%20Sept%202025.pdf)
 
 # Projects
