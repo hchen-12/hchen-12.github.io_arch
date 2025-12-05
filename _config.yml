@@ -4,5 +4,5 @@ description: Mechanical Engineer | Biomechanics | Product Design
 # show_downloads: 
 theme: jekyll-theme-minimal
 layout: profile
-user_image: 
+user_image: /docs/assets/profile.jpg
 style: topbar
