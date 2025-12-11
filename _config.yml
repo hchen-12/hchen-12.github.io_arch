@@ -1,5 +1,5 @@
 
-theme: jekyll-theme-minimal
+theme:  "minimal-mistakes-jekyll" #jekyll-theme-minimal
 layout: profile
 style: topbar
 title: Holly Chen
